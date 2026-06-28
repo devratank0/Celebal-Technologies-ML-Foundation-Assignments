@@ -88,9 +88,9 @@ This project helped strengthen my understanding of:
 
 **Devratan Kumar**
 
-PGDM (Business Analytics & Marketing)
+PGDM (Business Analytics)
 Lloyd Business School
-Data Science Intern, Celebal Technologies
+Data Scientist, Celebal Technologies
 
 ## 📝 Note
 
